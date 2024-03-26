@@ -20,22 +20,22 @@
 ### 메인페이지
 
 - 캐릭터 검색 전
-  ![메인페이지00](./images/main_page_00.png)
+  ![메인페이지00](/profile/images/main_page_00.png)
 
 - 캐릭터 검색 후
-  ![메인페이지01](./images/main_page_01.png)
+  ![메인페이지01](/profile/images/main_page_01.png)
 
 ### 캐릭터 페이지
 
 - 캐릭터의 간략한 정보 대시보드
-  ![캐릭터페이지00](./images/character_page_00.png)
+  ![캐릭터페이지00](/profile/images/character_page_00.png)
 
 - 현재 착용중인 장비
-  ![캐릭터페이지01](./images/character_page_01.png)
+  ![캐릭터페이지01](/profile/images/character_page_01.png)
 
 - 선택한 장비 세팅에 따른 장비 장착률
-  ![캐릭터페이지02](./images/character_page_02.png)
-  ![캐릭터페이지03](./images/character_page_03.png)
+  ![캐릭터페이지02](/profile/images/character_page_02.png)
+  ![캐릭터페이지03](/profile/images/character_page_03.png)
 
 ## 기술 스택
 
